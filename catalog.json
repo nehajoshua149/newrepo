@@ -25,9 +25,12 @@
     { "id": "prod-07e47782-019", "name": "Premium Item 19", "category": "home", "price": 37.65, "stock": 14, "rating": 1.4 }
   ],
   "aggregations": {
-    "electronics": {
-      "count": 4,
-      "inventoryValue": 67519.92
-    }
+  "electronics": {
+    "count": 4,
+    "inventoryValue": 67519.92
+  },
+  "clothing": {
+    "count": 5
   }
+}
 }
